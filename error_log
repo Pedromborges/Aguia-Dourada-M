@@ -1,0 +1,4 @@
+[24-Jan-2013 12:58:35] PHP Warning:  include(cms/php_incs/conecta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ideia596/public_html/aguia/sendorc.php on line 1
+[24-Jan-2013 12:58:35] PHP Warning:  include(cms/php_incs/conecta.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ideia596/public_html/aguia/sendorc.php on line 1
+[24-Jan-2013 12:58:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'cms/php_incs/conecta.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ideia596/public_html/aguia/sendorc.php on line 1
+[07-Feb-2013 10:48:36] PHP Parse error:  syntax error, unexpected '}' in /home/ideia596/public_html/aguia/orcamento.php on line 1
